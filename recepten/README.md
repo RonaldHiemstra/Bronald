@@ -30,14 +30,18 @@ Temperatuur   Minuten
 68            15
 78            20
 
-Hoeveelheid gram      Hop            toevoegen Minuten
-   6              Hallertau Korrels (7.8%)  FWH
-   6              Goldings  Korrels (5.2%)  60
-   9              Saaz      Korrels (4.5%)  60
+| Hoeveelheid gram | Hop | toevoegen Minuten |
+| - | - | - |
+| 6 | Hallertau Korrels (7.8%) | FWH |
+| 6 | Goldings  Korrels (5.2%) | 60 |
+| 9 | Saaz      Korrels (4.5%) | 60 |
 
-Giststarter:
+Giststarter??
 
- [Biergist WYEAST XL 1762 Belgian Abbey II](https://www.brouwland.com/nl/onze-producten/bierbereiding/biergisten/wyeast-vloeibare-gisten/belgische-specialiteiten/d/biergist-wyeast-xl-1762-belg-abbey-2)
+Gist:
+
+* [Biergist WYEAST XL 1762 Belgian Abbey II](https://www.brouwland.com/nl/onze-producten/bierbereiding/biergisten/wyeast-vloeibare-gisten/belgische-specialiteiten/d/biergist-wyeast-xl-1762-belg-abbey-2)
+* [Fermentis biergist gedroogd SafAle T-58](https://www.brouwland.com/nl/onze-producten/bierbereiding/biergisten/fermentis-korrelgisten/d/biergist-gedroogd-safbrew-t-58-11-5-gr)
 
 Kooktijd     90    Minuten
 
