@@ -14,15 +14,14 @@ Beoogde eindresultaat:
 
 Ingrediënten:
 
-* Munich Light (80-110 EBC)	the Swaen	375	09-2020
-*	Dark Wheat Malt (15-20 EBC)	Weyermann	625	09-2020
-*	Pilsner gerstemout (3-4.5 EBC)	the Swaen	2500	09-2020
-* Pils mout 500g	Viking	2 * 5000	03-2021
-* Munich mout 1000g
-* Caramel mout 400g
-* Rietsuiker 250g
-* Candijsuiker 250g
-* Haver vlokken 200g
+* 200g Haver vlokken
+* 375g Munich Light (80-110 EBC)	the Swaen
+*	625g Dark Wheat Malt (15-20 EBC)	Weyermann
+*	2500g Pilsner gerstemout (3-4.5 EBC)	the Swaen
+* 1000g Pils mout 500g	Viking
+* 1000g Special B (260-320) Brewferm 
+* 250g Rietsuiker
+* 250g Candijsuiker
 
 Maischen:
 
