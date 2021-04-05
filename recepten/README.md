@@ -14,7 +14,10 @@ Beoogde eindresultaat:
 
 Ingrediënten:
 
-* Pils mout 4000kg
+* Munich Light (80-110 EBC)	the Swaen	375	09-2020
+*	Dark Wheat Malt (15-20 EBC)	Weyermann	625	09-2020
+*	Pilsner gerstemout (3-4.5 EBC)	the Swaen	2500	09-2020
+* Pils mout 500g	Viking	2 * 5000	03-2021
 * Munich mout 1000g
 * Caramel mout 400g
 * Rietsuiker 250g
